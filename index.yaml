@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  appsentinels-sniffer:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-09-24T08:29:08.797778166+05:30"
+    description: A Helm chart for AppSentinels Sniffer DaemonSet
+    digest: 9d9fb2b566c71115ae001a51f49668c8c0279d1afeb283b5825eef2c23154a86
+    name: appsentinels-sniffer
+    type: application
+    urls:
+    - https://appsentinels.github.io/helm-charts/appsentinels-sniffer-0.1.1.tgz
+    version: 0.1.1
+  edge-controller:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-09-24T08:29:08.798573515+05:30"
+    description: A Helm chart for AppSentinels Edge Controller
+    digest: af957336b74ecdbf7ce8a06bd605959f26ebf3334409fe425d227e17d1e33161
+    name: edge-controller
+    type: application
+    urls:
+    - https://appsentinels.github.io/helm-charts/edge-controller-1.1.0.tgz
+    version: 1.1.0
+generated: "2025-09-24T08:29:08.796335727+05:30"
