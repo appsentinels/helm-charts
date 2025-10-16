@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  appsentinels-dastclient:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-16T06:53:52.19873816Z"
+    description: A Helm chart for AppSentinels DAST Client
+    digest: 33c4b9c24580ceec062ca47f1dfdced42c8a724d40cada3d972ad14c2acc4b61
+    name: appsentinels-dastclient
+    type: application
+    urls:
+    - https://appsentinels.github.io/helm-charts/appsentinels-dastclient-1.0.0.tgz
+    version: 1.0.0
   appsentinels-sniffer:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-09-30T09:57:45.5881673+05:30"
+    created: "2025-10-16T06:53:52.202046016Z"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: 8259200a2c6e57e45deab996edf6ba7b110745499861a9883f0db4387fee8c65
     name: appsentinels-sniffer
@@ -13,7 +24,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-09-30T09:57:45.587688247+05:30"
+    created: "2025-10-16T06:53:52.200377348Z"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: 9d9fb2b566c71115ae001a51f49668c8c0279d1afeb283b5825eef2c23154a86
     name: appsentinels-sniffer
@@ -24,7 +35,7 @@ entries:
   edge-controller:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-09-30T09:57:45.588656662+05:30"
+    created: "2025-10-16T06:53:52.203694701Z"
     description: A Helm chart for AppSentinels Edge Controller
     digest: af957336b74ecdbf7ce8a06bd605959f26ebf3334409fe425d227e17d1e33161
     name: edge-controller
@@ -32,4 +43,4 @@ entries:
     urls:
     - https://appsentinels.github.io/helm-charts/edge-controller-1.1.0.tgz
     version: 1.1.0
-generated: "2025-09-30T09:57:45.586889536+05:30"
+generated: "2025-10-16T06:53:52.196459097Z"
