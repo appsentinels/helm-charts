@@ -15,4 +15,5 @@ helm search repo appsentinels
 ```sh
 helm install my-edge appsentinels/edge-controller --version <version>
 helm install my-sniffer appsentinels/sniffer --version <version>
+helm install my-dast-client appsentinels/dastclient --version 1.0.0
 ```
