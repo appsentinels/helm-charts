@@ -3,7 +3,7 @@ entries:
   appsentinels-dastclient:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-12-16T19:38:11.369905574+05:30"
+    created: "2026-01-06T15:12:58.062905411+05:30"
     description: A Helm chart for AppSentinels DAST Client
     digest: bd9ceb5bae8bfab9e328512257a7405948df2c8d822c7f0fcc162111f873ea2c
     name: appsentinels-dastclient
@@ -14,9 +14,9 @@ entries:
   appsentinels-server-chart:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.392646786+05:30"
+    created: "2026-01-06T15:12:58.07896388+05:30"
     description: Helm chart for Appentinels server
-    digest: 97de38fadd4d962d86be41c0f77d13c4a9809a2a9fa53c689115e1f198b754cd
+    digest: 329b4fe637ae794ca3c40c74dfe2520c5ff7ae442c9640b1a67d4f8fbd7e8cbe
     name: appsentinels-server-chart
     type: application
     urls:
@@ -25,7 +25,7 @@ entries:
   appsentinels-sniffer:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.44057592+05:30"
+    created: "2026-01-06T15:12:58.12099515+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: c92e4293a389dfceccaa86d6913676af40a296a7588fd781756bad4591a3a408
     name: appsentinels-sniffer
@@ -35,7 +35,7 @@ entries:
     version: 2.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.433955348+05:30"
+    created: "2026-01-06T15:12:58.117043705+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: b9449252c1f1d1c2b1fefeab8c54b973d3825c08b79d269eed10206c80a6ddc9
     name: appsentinels-sniffer
@@ -45,7 +45,7 @@ entries:
     version: 2.0.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.427420728+05:30"
+    created: "2026-01-06T15:12:58.112748489+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: 4788e67a8d9b9c105eb2bdcb0aef9caa4374463a45d6c2ebf4311b85bc2f9676
     name: appsentinels-sniffer
@@ -55,7 +55,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.420753116+05:30"
+    created: "2026-01-06T15:12:58.108059447+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: b4a160a09800faf92d5a2e8bee4972d6692b5b3d3ae552d8bc0256e90ffb5f86
     name: appsentinels-sniffer
@@ -65,7 +65,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.413638882+05:30"
+    created: "2026-01-06T15:12:58.100384803+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: de4bd3e16a291666a5a90edcaecc9b3a08da1fd7593511df7c41e608936b2ef5
     name: appsentinels-sniffer
@@ -75,7 +75,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.406665524+05:30"
+    created: "2026-01-06T15:12:58.093244647+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: 8259200a2c6e57e45deab996edf6ba7b110745499861a9883f0db4387fee8c65
     name: appsentinels-sniffer
@@ -85,7 +85,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-16T19:38:11.400149453+05:30"
+    created: "2026-01-06T15:12:58.086555498+05:30"
     description: A Helm chart for AppSentinels Sniffer DaemonSet
     digest: 9d9fb2b566c71115ae001a51f49668c8c0279d1afeb283b5825eef2c23154a86
     name: appsentinels-sniffer
@@ -96,7 +96,7 @@ entries:
   edge-controller:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-12-16T19:38:11.450848186+05:30"
+    created: "2026-01-06T15:12:58.125299079+05:30"
     description: A Helm chart for AppSentinels Edge Controller
     digest: af957336b74ecdbf7ce8a06bd605959f26ebf3334409fe425d227e17d1e33161
     name: edge-controller
@@ -104,4 +104,4 @@ entries:
     urls:
     - https://appsentinels.github.io/helm-charts/edge-controller-1.1.0.tgz
     version: 1.1.0
-generated: "2025-12-16T19:38:11.362081291+05:30"
+generated: "2026-01-06T15:12:58.056205221+05:30"
