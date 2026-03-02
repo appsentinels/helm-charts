@@ -16,7 +16,7 @@ helm search repo appsentinels
 helm install my-edge appsentinels/edge-controller --version <version>
 helm install my-sniffer appsentinels/sniffer --version <version>
 helm install my-dast-client appsentinels/dastclient --version 1.0.0
-helm install appsentinels-saas appsentinels/appsentinels-server-chart --version <version>
+helm install appsentinels-server appsentinels/appsentinels-server-chart --version 1.3.0
 ```
 
 ## Internal - How publish charts to this repo
