@@ -15,8 +15,8 @@ helm search repo appsentinels
 ```sh
 helm install appsentinels-edge appsentinels/edge-controller --version <version>
 helm install appsentinels-sniffer appsentinels/sniffer --version <version>
-helm install appsentinels-dast-client appsentinels/dastclient --version 1.0.0
-helm install appsentinels-dast-oast appsentinels/appsentinels-dast-oast --version 1.0.0
+helm install appsentinels-dast-client appsentinels/dastclient --version <version>
+helm install appsentinels-dast-oast appsentinels/appsentinels-dast-oast --version <version>
 helm install appsentinels-server appsentinels/appsentinels-server-chart --version <version>
 ```
 
