@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  appsentinels-dast-oast:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-11-09T16:30:38.681952+05:30"
+    description: A Helm chart for the AppSentinels DAST OAST server
+    digest: c7c2a0aad3b62c83b66f46fe59066e9d7930971265b55403ce571a515f4f307f
+    name: appsentinels-dast-oast
+    type: application
+    urls:
+    - https://appsentinels.github.io/helm-charts/appsentinels-dast-oast-1.0.0.tgz
+    version: 1.0.0
   appsentinels-dastclient:
   - apiVersion: v2
     appVersion: latest
